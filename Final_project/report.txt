@@ -1,0 +1,8 @@
+Omar White (omawhite)
+
+
+1) I worked on intially creating the code and deciding how it would be structured, What fucntions would be abstracted out etc. I also worked on the menu functions, and eventually worked on rewriting our brick collision code, my partner also helped out with all of these. He wrote our inital brick collision code but we deicded to go a different route about half way through
+
+2) Wed had a hard time doing collision detection, it was very dificult at first, you have to factor in both the structures around you images being drawn on the board, as well as how the board renders these structures. One of the trickier things was claculating the edges of objects so that things would colide correctly, for a while we had an issues of our ball get stuck inside of bricks, or in other cracks where there were empty pixels
+
+3) I would had gone with the collision detection algorithm we used at the end in the very begining, we tried doing it without having a structure for bricks at first and that wasn't a good way to do it. I realized that keeping track of the bricks through and array of structures was the best way to do it.

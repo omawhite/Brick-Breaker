@@ -1,0 +1,28 @@
+Breakout Or Brick Breaker
+
+
+Our game is a version of the popular brick breaking game in which players use a paddle and a ball to try and destroy a seires of bricks.
+
+In our version of the game a player starts our with 3 lives and recieves points for each brick they break
+
+If the ball falls bellow the paddle the player loses a life
+
+If the player is advanced enough they can catch and hook the ball back up before it falls through, good luck with this one
+
+The game will keep going until the player loses all their lives, if you destroy every brick they will respawn with an additional life for every level you clear. 
+
+
+
+Task Breakdown:
+Initial code structuring: Omar
+initial brick collision: Broadmore
+paddle and ball design: Broadmore
+paddle and ball movement: Omar
+media file gathering: Omar and Broadmore
+media file implementation: Omar and Broadmore
+menu screen design and implementation: Omar
+developer menu: Omar
+brick collision redesign: Omar
+scoring and live: Broadmore
+leveling system: Omar
+
